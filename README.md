@@ -1,6 +1,6 @@
-# YpoxreotikiErgasia23_e20126_PAPOUTSIS_KYRIAKOS
+# DigitalAirlines API
 
-## ΛΕΠΤΟΜΕΡΗΣ ΕΠΕΞΗΓΗΣΗ ΤΟΥ ΚΩΔΙΚΑ ΚΑΙ ΠΑΡΑΔΕΙΓΜΑΤΑ ΕΚΤΕΛΕΣΗΣ
+## A RESTful flight reservation backend built with **Flask** and **MongoDB**, implementing endpoints for searching flights, booking tickets, and managing reservations.
 
 Κάνουμε τα απαραίτητα imports, συνδεόμαστε στη βάση δεδομένων DigitalAirlines και δημιουργούμε τα collections της.
 ~~~python
